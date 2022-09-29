@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Waqas Yousaf aka @imakewebapps
-- 👀 I’m a fullstack developer working with Laravel, Node.js, Codeigniter, Redis
+- 👀 Fullstack developer mainly working on Laravel, ReactJS, Codeigniter projects.
 - 🌱 I’m currently working with Sorcim Private Liimited with best co-workers in the world!
 - 💞️ I’m looking to collaborate on with talented people.
 - 📫 drop me message at wish.dd at skype :)
